@@ -1,63 +1,62 @@
-## Hi there!👋
+## Hi there! 👋
 
-<!--
-**chromatimera/chromatimera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Ofelia Popescu**, a **Consulting Associate** at [Outsmart Insight](https://www.outsmartinsight.com/) and a final-year **PhD researcher in Biophysics** at the [University of Edinburgh](https://www.ph.ed.ac.uk/people/ofelia-popescu).
 
-Here are some ideas to get you started:
+I build **end-to-end data and modelling pipelines** — from raw experimental data (including images and time-series) to statistical models, simulations, and clear visualizations that support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🚀 What I’ve Built
 
-I'm **Ofelia Popescu**. Currently a **Consulting Associate** at [Outsmart Insight](https://www.outsmartinsight.com/) and a final year **PhD Student in Biophtysics** at [University of Edinburgh]([https://www.outsmartinsight.com/](https://www.ph.ed.ac.uk/people/ofelia-popescu)). I enjoy turning messy, high-dimensional data into clear insights, models, and decisions.
+**End-to-end image → insight pipeline**
+- Designed and implemented a full pipeline from **raw microscopy images** to **processed visualizations of bacterial growth**
+- Built custom **image processing workflows** (segmentation, feature extraction, error handling)
+- Extracted quantitative growth metrics and applied **regression and statistical analysis**
+- Produced reproducible plots and summaries for downstream interpretation
 
-🔬 Background  
- * 🎓 PhD in Biophysics  
- * 📐 Strong foundation in physics, statistics, and mathematical modeling  
- * 🧬 Research focus: image processing, antibiotics, bacterial resistance  
- * 📊 Extensive experience with experimental + computational data  
- * 🧠 Comfortable moving between theory, simulations, and real data  
+**Stochastic simulation pipeline (public repository)**
+- Developed a **simulation framework** for bacterial growth using **stochastic models**
+- Implemented parameterized simulations, batch runs, and result aggregation
+- Used simulations to explore variability, uncertainty, and system-level behaviour
 
-🧰 Tech & Tools
+**Time-series analysis pipeline (in progress)**
+- Built a **Python pipeline** for analysing spectrophotometer-based bacterial growth curves
+- Implemented preprocessing, normalization, growth-rate estimation, and regression
+- Focused on robust handling of **noisy, real-world time-series data**
+  *(Repository to be made public)*
 
-Languages  
- * Python (NumPy, pandas, matplotlib, scipy, scikit-learn, Jupyter notebooks)  
- * MATLAB (MATLAB live scripts)
+---
 
+### 🧰 Tools & Skills
 
-Data & Modeling  
- * Statistical modeling & regression  
- * Time-series analysis  
- * Stochastic simulations  
- * Optimization & parameter inference  
- * Image & signal processing  
- * Data Engineering / Workflow
- * Git & GitHub  
+- **Python**, MATLAB  
+- Image processing & feature extraction  
+- Time-series analysis & regression  
+- Stochastic modelling & simulations  
+- Statistical inference & uncertainty analysis  
+- Reproducible workflows (Git)
 
+---
 
-📌 Current Focus  
- * 🧪 Translating scientific rigor → industry-ready analytics  
- * 🗂 Building clean, reproducible data pipelines  
- * 🧠 Improving storytelling & visualization for decision-making  
+### 📌 Current Focus
 
-🎯 What I’m Looking For    
-I’m interested in roles such as:  
- * **(Applied) Data Scientist**  
- * **Data Analyst / Modelling-focused roles**  
- * **Quantitative or modelling-heavy positions**, including finance-adjacent roles  
+- Building **robust, end-to-end analytics pipelines**
+- Applying scientific modelling techniques to **industry and business problems**
+- Communicating complex results clearly to **non-technical stakeholders**
 
-I enjoy working on problems that involve:  
-- building models under uncertainty  
-- working with time-series and noisy data  
-- translating complex analyses into clear, usable insights  
+---
 
-📬 Let’s Connect
-💼 [LinkedIn](linkedin.com/in/ofeliapopescu)
-📧 Email: popescuiofelia@gmail.com
+### 🎯 What I’m Looking For
+
+- **(Applied) Data Scientist**
+- **Modelling-focused data roles**
+- Quantitative roles, including **finance-adjacent modelling**
+
+I’m especially interested in problems involving **uncertainty, time-series data, and decision-making**, where models are used to inform real-world choices.
+
+---
+
+### 📬 Let’s Connect
+
+💼 [LinkedIn](https://linkedin.com/in/ofeliapopescu)  
+📧 popescuiofelia@gmail.com
